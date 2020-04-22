@@ -19,3 +19,12 @@ h1{
   justify-content: space-around;
   align-items: center;
 }
+
+ul {
+  list-style-type: none;
+}
+.catnav{
+  padding: 1em;
+  width: 100%;
+  background-color: #7390B2;
+}

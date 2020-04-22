@@ -12,3 +12,7 @@ h2{
 h1{
   font-size: 2em;
 }
+
+.cat-grid-container{
+  display:flex;
+}

@@ -50,3 +50,7 @@ html * {
 .russianblue{
   float: left;
 }
+
+.container {
+  padding: 2px 16px;
+}

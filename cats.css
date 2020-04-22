@@ -26,5 +26,15 @@ ul {
 .catnav{
   padding: 1em;
   width: 100%;
-  background-color: #7390B2;
+}
+
+.chapnav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    -webkit-box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
 }
